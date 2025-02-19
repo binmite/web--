@@ -44,3 +44,67 @@ internal class Program
         }
     }
 }
+```
+
+### Решение задачи с поиском чисел Армстронга:
+```csharp
+internal class Program
+{
+    static void Main(string[] args)
+    {
+        Console.Write("Введите k: ");
+        int k = int.Parse(Console.ReadLine()!);
+
+        for (int i = 1; i <= k; i++)
+        {
+            if (IsArmstrongNumber(i))
+            {
+                Console.WriteLine($"{i} - число Армстронга");
+            }
+    
+            else
+            {
+                Console.WriteLine($"{i} - не число Армстронга");
+            }
+        }
+    }
+
+    public static bool IsArmstrongNumber(int number)
+    {
+        string numString = number.ToString();
+        List<int> numbers = new List <int>(numString.Length);
+    
+        foreach (char c in numString)
+        {
+            int digit = c - '0';
+            numbers.Add(digit);
+        }
+    
+        int sum = 0;
+        int numberOfDigits = numbers.Count;
+    
+        foreach (int digit in numbers)
+        {
+            sum += (int)Math.Pow(digit, numberOfDigits);
+        }
+    
+        return sum == number;
+    }
+}
+```
+---
+
+## Выполненные проекты:
+- CV
+
+---
+
+##Курсы и тренинги:
+- Курс по Phyton от LetPy
+- ~~Курс по JS от Rolling Scopes~~
+- ~~Курс по React от KTS~~
+
+---
+
+##Уровень английского:
+B2 (тест от Epam)
