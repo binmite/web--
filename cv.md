@@ -113,4 +113,4 @@ B2 (test from Epam)
 
 ## My photo
 
-![Упс, не загрузилась](C:\Users\PAVILION\Pictures\Saved Pictures\photo_2025-02-12_15-25-41.jpg)
+![Упс, не загрузилась](./image/photo_2025-02-12_15-25-41.jpg)
