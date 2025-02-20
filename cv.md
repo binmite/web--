@@ -1,18 +1,18 @@
-# Томашов Артём
+# Tomashov Artem
 
-## Контакты:
-- Телефон: **+375293517158**
+## Contacts:
+- Phone number: **+375293517158**
 - E-mail: <tomasovartem039@gmail.com>
 - Telegram: [@natashalava](https://t.me/natashalava)
 - Instagram: [n.shalava](https://www.instagram.com/n.shalava?igsh=MXIxZGk3NGF6NTQ3ZA==)
 
 ---
 
-Студент по специальности <mark>информатика и вычислительная техника</mark>. Ищу возможность *расширить свои знания* и получить любой опыт.
+Student majoring in <mark>computer science and computer engineering</mark>. I'm looking for an opportunity to *expand my knowledge* and gain any experience.
 
 ---
 
-## Навыки:
+## Skills:
 - Git (basic)
 - C#
 - Python
@@ -20,9 +20,9 @@
 
 ---
 
-## Примеры кода:
+## Code examples:
 
-### Решение задачи с единичной окружностью:
+### Solving the unit circle problem:
 ```csharp
 internal class Program
 {
@@ -46,7 +46,7 @@ internal class Program
 }
 ```
 
-### Решение задачи с поиском чисел Армстронга:
+### Solving the problem of finding Armstrong numbers:
 ```csharp
 internal class Program
 {
@@ -94,17 +94,23 @@ internal class Program
 ```
 ---
 
-## Выполненные проекты:
+## Completed projects:
 - CV
 
 ---
 
-## Курсы и тренинги:
-- Курс по Phyton от LetPy
-- ~~Курс по JS от Rolling Scopes~~
-- ~~Курс по React от KTS~~
+## Courses and trainings:
+- Phyton course from LetPy
+- ~~JS course from Rolling Scopes~~
+- ~~React course from KTS~~
 
 ---
 
-## Уровень английского:
-B2 (тест от Epam)
+## English level:
+B2 (test from Epam)
+
+---
+
+## My photo
+
+![Упс, не загрузилась](C:\Users\PAVILION\Pictures\Saved Pictures\photo_2025-02-12_15-25-41.jpg)
